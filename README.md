@@ -1,4 +1,4 @@
-# Bus-Sewa-Time-Table-and-Fare-List
+# Bus-Sewa-Time-Table-and-Fare-List-HTML
 
 -The table organizes bus service details neatly, listing bus names, routes, times, and fares.
 -Background color (Bgcolor="#2a9df4") and centered alignment (align="center") enhance readability and presentation.
